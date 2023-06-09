@@ -15,7 +15,9 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
+Print the value it would be circulated
 ### Step 6: 
+End the program
 ## Program:
 #Program to circulate N values.<br>
 #Developed by: Aswinth T<br>
